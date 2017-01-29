@@ -1,5 +1,4 @@
-//This Program illustrates how we can reverse linked list using only
-//"2 Pointers", Remember we are going to reverse linked list sing only 2 pointers
+//Basic Program for Creation of linkes list
 
 #include<iostream>
 using namespace std;
